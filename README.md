@@ -16,5 +16,5 @@ $ pkg install git
 $ git clone https://github.com/Git628/Worder.git
 $ cd Worder
 $ python Worder.py
-### Kali Lynux 
+## Kali Lynux 
 same as termux
